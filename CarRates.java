@@ -1,4 +1,4 @@
-ublic class CarRates extends VehicleRates{
+public class CarRates extends VehicleRates{
 
 	
 	public CarRates(double daily_rate, double weekly_rate, double monthly_rate, double mileage_chrg,
