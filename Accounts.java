@@ -1,5 +1,5 @@
 
-// Collection of account objects
+// Collection of account objects 
 
 public class Accounts {
 	
