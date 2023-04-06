@@ -1,3 +1,6 @@
+
+// Rates of cars
+
 public class CarRates extends VehicleRates{
 
 	
